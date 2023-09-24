@@ -7,7 +7,7 @@ ready: false
 
 * **Instructors**:
    [Richert Wang](http://www.cs.ucsb.edu/~richert)
-* **Lecture**: MW 11:00am-12:00pm
+* **Lecture**: MW 9:00am-11:00am
                                          
 * Office Hours:
    * By appointment
