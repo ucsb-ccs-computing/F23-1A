@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPTGCS 1A, Fall 2022"
+title: "Syllabus, CMPTGCS 1A, Fall 2023"
 ready: false
 ---
 
