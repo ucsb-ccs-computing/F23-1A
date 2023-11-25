@@ -100,7 +100,7 @@ Download the 4 files from here:
 
 Or copy from here:
 
-* /cs/faculty/richert/public_html/cs32/s18/misc/lab06/*
+* /cs/faculty/richert/public_html/cs32/misc/s18/lab06/*
 
 ###  Guidelines for Answering 
 
